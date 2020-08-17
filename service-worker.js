@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "200818/01.django-blog.html",
-    "revision": "2a6e6ed66ced5e1ccc98c0314a97d43e"
+    "revision": "9f03e7b20c7d919de29c24b4c795efd1"
   },
   {
     "url": "404.html",
-    "revision": "71d7dbb508e11b1a918c953801bc265a"
+    "revision": "8e216366f4bcff9b01b54625b3f41963"
   },
   {
     "url": "assets/css/0.styles.4d0a66ea.css",
@@ -50,8 +50,8 @@ self.__precacheManifest = [
     "revision": "41d5dd693562897bb142490d87da1381"
   },
   {
-    "url": "assets/js/4.540e19f5.js",
-    "revision": "e8603692fb0eba559e451fff4683dd79"
+    "url": "assets/js/4.b05b62f3.js",
+    "revision": "34a3600f157ff7508e99b0159a423b5a"
   },
   {
     "url": "assets/js/5.a60a95b1.js",
@@ -62,8 +62,8 @@ self.__precacheManifest = [
     "revision": "e106cda525c14dd0cf8179f891afb88b"
   },
   {
-    "url": "assets/js/7.35a28aa6.js",
-    "revision": "5dcbc2224397be6be1fc6654112724f8"
+    "url": "assets/js/7.55eeb3f3.js",
+    "revision": "fcf52431459a6a9f7ec39e0ed0e83e76"
   },
   {
     "url": "assets/js/8.3d7a2469.js",
@@ -74,8 +74,8 @@ self.__precacheManifest = [
     "revision": "43766908c6a8f38bcdb68ffed5c499ee"
   },
   {
-    "url": "assets/js/app.52de8b53.js",
-    "revision": "b28b966f3a403d1a4df6c107917c0c4b"
+    "url": "assets/js/app.1b7544b9.js",
+    "revision": "c9125ec80f5d1e7969e3c15c3473de4b"
   },
   {
     "url": "images/Likelion-HUFS.png",
@@ -91,7 +91,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "22003ac19ce214e7201ffecf7f9978de"
+    "revision": "446e3faf884f558f8d865ce64711bf83"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
