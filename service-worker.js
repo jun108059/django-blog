@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "aea261481f8087d22c0c248e7665c2f0"
+    "revision": "9c02851f3f690ba25ef5279462246b0a"
   },
   {
     "url": "assets/css/0.styles.4d0a66ea.css",
@@ -110,24 +110,24 @@ self.__precacheManifest = [
     "revision": "5b339216a9ef9e486a9ce1ffb06f7eba"
   },
   {
-    "url": "assets/js/8.3b6c1bb9.js",
-    "revision": "89460d88462d9d75b3b59877ce90fd49"
+    "url": "assets/js/8.62c9a49f.js",
+    "revision": "0cfcec7e11d09b39e7572a2a79b3894e"
   },
   {
     "url": "assets/js/9.235bf88a.js",
     "revision": "d1bed04bc54de42a0a335f8460f4c72f"
   },
   {
-    "url": "assets/js/app.fe98331f.js",
-    "revision": "24f18b867f514fe79b75841d8611ea19"
+    "url": "assets/js/app.74cb373d.js",
+    "revision": "9203ab1f2833ed469357860cb1e9f7ca"
   },
   {
     "url": "Blogdjango/01.djangoblog.html",
-    "revision": "0f28c83ad70238d64478605e316a5146"
+    "revision": "8c539cdff0b8dd59f3d5ffbf95d7ae44"
   },
   {
     "url": "Blogdjango/02.djangoblog.html",
-    "revision": "c05829977f956d2fe3d0e1742d64519f"
+    "revision": "509bda97995cec5ddf4c86e141d72dfe"
   },
   {
     "url": "images/django1/django-02.png",
@@ -187,7 +187,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "5c167a01665069d2c6c21349ee02a985"
+    "revision": "54a067b6c4302c5a23ca5fc691aec82b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
