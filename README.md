@@ -29,3 +29,6 @@
 
 ---
 
+## Session 1
+
+- [Blog App : CRUD - CRD(Create, Read, Delete) + Pagination, Faker](https://jun108059.github.io/django-blog/)
