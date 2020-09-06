@@ -4,6 +4,8 @@ yarn.lock
 .vscode
 gh-pages
 gh-pages.pub
+.idea
+package-lock.json
 
 ### Django ###
 *.log
