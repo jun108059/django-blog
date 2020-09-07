@@ -19,7 +19,8 @@ module.exports = {
     themeConfig: {
       sidebar: [
         sidebar.getSidebarGroup('/Blogdjango/', '💙 Session 1', true),
-        sidebar.getSidebarGroup('/Blogdjango2/', '💛 Session 2', true)
+        sidebar.getSidebarGroup('/Blogdjango2/', '💛 Session 2', true),
+        sidebar.getSidebarGroup('/RestFramework1/', '💜 Session 3', true)
       ],
       nav: [
         { text: 'GitHub', link: 'https://github.com/jun108059/django-blog' },
