@@ -1,6 +1,8 @@
-from django.shortcuts import render
-from django.http import HttpResponse
+from rest_framework import viewsets
+from .serializers import PostSerializer
+from .models import Post
 
 
-def hello(request):
-    return HttpResponse("<h1>Hello, world!</h1>")
+class PostViewSet(viewsets.ModelViewSet):
+    queryset = Post.objects.all()
+    serializer_class = PostSerializer
