@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "100f37c25e5fd2dd2a3a1a2ba740162f"
+    "revision": "c3516e3dae64849da1cc5bf620a9fc95"
   },
   {
     "url": "assets/css/0.styles.d7a6f782.css",
@@ -92,6 +92,18 @@ self.__precacheManifest = [
   {
     "url": "assets/img/django-19.dcfbb7e2.png",
     "revision": "dcfbb7e2dabc649fc9691bd323958428"
+  },
+  {
+    "url": "assets/img/DRF01.7482b316.png",
+    "revision": "7482b316c157e6080688aef33cac620a"
+  },
+  {
+    "url": "assets/img/DRF02.92aef40d.png",
+    "revision": "92aef40d257d820e81235a4082e33af1"
+  },
+  {
+    "url": "assets/img/DRF03.44ef042f.png",
+    "revision": "44ef042f4eae2236b6d459d0c75e29cf"
   },
   {
     "url": "assets/img/DRFlogo.37921ea7.png",
@@ -186,84 +198,84 @@ self.__precacheManifest = [
     "revision": "842d466661adf957f9f4a1cd82be7492"
   },
   {
-    "url": "assets/js/10.bfecdf54.js",
-    "revision": "abc40fc188b9ddb7f5d7ba6804c9809f"
+    "url": "assets/js/10.a0450512.js",
+    "revision": "3e53b2c9d3114f72a6079335b8a0bb33"
   },
   {
-    "url": "assets/js/11.0454fc6d.js",
-    "revision": "403a820222483e8567a895c2e93b2912"
+    "url": "assets/js/11.3dafa25d.js",
+    "revision": "1ccd44d25ad7a75085a21d8ee0f4063a"
   },
   {
-    "url": "assets/js/12.23aefdb8.js",
-    "revision": "b291f9adcc2a04839751e888ea500dfc"
+    "url": "assets/js/12.5228b161.js",
+    "revision": "c619515b0e3901ccf50b926b868f516e"
   },
   {
-    "url": "assets/js/13.25d59a57.js",
-    "revision": "2593b8989a41d03a6ac15ea459311991"
+    "url": "assets/js/13.5b636985.js",
+    "revision": "61a948705d918a9ddc7eaec7cf16a573"
   },
   {
-    "url": "assets/js/14.c9349d4c.js",
-    "revision": "f38ca1aeeac51511e909d14479d06afd"
+    "url": "assets/js/14.a56528c3.js",
+    "revision": "f92211b562fc3301d153d8aa913c5d23"
   },
   {
-    "url": "assets/js/15.6d8baf6b.js",
-    "revision": "78e83efec158303e198c9006e8c102ba"
+    "url": "assets/js/15.247b117c.js",
+    "revision": "aceb62ed35a620b16747837bddcb8c03"
   },
   {
-    "url": "assets/js/16.7ae2db58.js",
-    "revision": "38a202484f6210c7428fd9fd0d3d6173"
+    "url": "assets/js/16.ea2fed4f.js",
+    "revision": "c0edfafcb2a34ea1d3db9bc72644cadd"
   },
   {
-    "url": "assets/js/2.e4a304df.js",
-    "revision": "c577d6d28d4bbe114aaa4da690b8ac61"
+    "url": "assets/js/2.ac97b42c.js",
+    "revision": "99118d73183cea49ca3eea5708de6391"
   },
   {
-    "url": "assets/js/3.b3fa4607.js",
-    "revision": "f072dd763af0dc21d050a7786062c712"
+    "url": "assets/js/3.d5192306.js",
+    "revision": "db7a94be07b2cecf476a2dfe25d085d3"
   },
   {
-    "url": "assets/js/4.a5adcf6f.js",
-    "revision": "ffdabf35defc75293b6359da0d4f490b"
+    "url": "assets/js/4.1701b37d.js",
+    "revision": "80a959084191f3a0c33838b86217b764"
   },
   {
-    "url": "assets/js/5.22805bd8.js",
-    "revision": "ea062d36ea21906949102437d3c8695e"
+    "url": "assets/js/5.fc184768.js",
+    "revision": "0f6067a51113cb774f22f73ec6537dc3"
   },
   {
-    "url": "assets/js/6.86703b10.js",
-    "revision": "dbc2edb384f93fa325f825eab7f6dc19"
+    "url": "assets/js/6.699afda2.js",
+    "revision": "190fb6bbeef749acf5caf574f16d5b23"
   },
   {
-    "url": "assets/js/7.61cb9752.js",
-    "revision": "51c337e9ed22ed3a387d9442091f0623"
+    "url": "assets/js/7.b0e24087.js",
+    "revision": "e0bb7c2f505ba2958dcc206a94738c56"
   },
   {
-    "url": "assets/js/8.c5078573.js",
-    "revision": "5b6f63123f696b738eca8552a073d6a3"
+    "url": "assets/js/8.6a59bf97.js",
+    "revision": "4790bdb52318ffc03e3cfeec895d1350"
   },
   {
-    "url": "assets/js/9.f15be461.js",
-    "revision": "ddf361dd9f22c187532775aaa3a75378"
+    "url": "assets/js/9.431622b1.js",
+    "revision": "b00219efeffee703635d6bf317cfb758"
   },
   {
-    "url": "assets/js/app.e440f9b6.js",
-    "revision": "3bfa289d7a34c53adf3d7641090a9ffb"
+    "url": "assets/js/app.2dee7184.js",
+    "revision": "25828b9c884091cc3c39c11152994afb"
   },
   {
     "url": "Blogdjango/01.djangoblog.html",
-    "revision": "af9bbbe467c3cfa253fe730f104534a3"
+    "revision": "e37db280c890a27115038cc707bf0410"
   },
   {
     "url": "Blogdjango/02.djangoblog.html",
-    "revision": "f899873bbb1b39f8696fea32b6c82923"
+    "revision": "50fd92e01fcaf31ad77d4cc536e7ee37"
   },
   {
     "url": "Blogdjango2/03.djangoblog.html",
-    "revision": "a334a16c7227605d46582cf288a41bf5"
+    "revision": "29b04234c88565abd9a4a0cfa065cb56"
   },
   {
     "url": "Blogdjango2/04.djangoblog.html",
-    "revision": "124693ac6ef6f39f38b7ec5ab88fb188"
+    "revision": "14e1939ae4ca8dcd654ae1131b921be6"
   },
   {
     "url": "images/django1/django-02.png",
@@ -426,28 +438,40 @@ self.__precacheManifest = [
     "revision": "4d9cc0a7f24c251d7349e5055038ffd5"
   },
   {
+    "url": "images/Rest/DRF01.png",
+    "revision": "7482b316c157e6080688aef33cac620a"
+  },
+  {
+    "url": "images/Rest/DRF02.png",
+    "revision": "92aef40d257d820e81235a4082e33af1"
+  },
+  {
+    "url": "images/Rest/DRF03.png",
+    "revision": "44ef042f4eae2236b6d459d0c75e29cf"
+  },
+  {
     "url": "images/Rest/simple-API.png",
     "revision": "842d466661adf957f9f4a1cd82be7492"
   },
   {
     "url": "index.html",
-    "revision": "f77513f63959819a1ccfaea0a9374568"
+    "revision": "ef090f3907bb1843ccd949a4813fb161"
   },
   {
     "url": "RestFramework1/01.restframework.html",
-    "revision": "cbfce50132b3ae91f5dc634a0979f385"
+    "revision": "2fd1a86b406b7cb78e6fe3e62d41750b"
   },
   {
     "url": "RestFramework1/02.restframework.html",
-    "revision": "15a175788dc6bcc4a5cb374159332225"
+    "revision": "b5d994476191f65b5c5c15bb8922805c"
   },
   {
     "url": "RestFramework1/httpRequestStatus.html",
-    "revision": "a7bf300afcad194d39a76faf5d1a93df"
+    "revision": "0c83a7781d59c76996b2b38a63510e7a"
   },
   {
     "url": "RestFramework1/keyWordContents.html",
-    "revision": "cd45a289ca7991d1c103b42aa00d1601"
+    "revision": "fa751ddbbc64c8a5300051c4b40026b9"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
