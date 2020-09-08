@@ -31,6 +31,12 @@
 
 ## Session 1
 
-- [Blog App : CRUD - CRD(Create, Read, Delete) + Pagination, Faker](https://jun108059.github.io/django-blog/)
+- [Blog App : CRUD - CRD(Create, Read, Delete) + Pagination, Faker](https://jun108059.github.io/django-blog/Blogdjango/01.djangoblog.html)
 
-- [Blog App : CRUD - CRUD (Create, Read, Update, Delete) + Static/Media/Thumbnail](https://jun108059.github.io/django-blog/)
+## Session 2
+
+- [Blog App : CRUD - CRUD (Create, Read, Update, Delete) + Static/Media/Thumbnail](https://jun108059.github.io/django-blog/Blogdjango2/03.djangoblog.html)
+
+## Session 3
+
+- [Django Rest API - Django REST Framework](https://jun108059.github.io/django-blog/RestFramework1/01.restframework.html)
