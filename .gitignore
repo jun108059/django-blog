@@ -6,6 +6,8 @@ gh-pages
 gh-pages.pub
 .idea
 package-lock.json
+static/
+migrations/
 
 ### Django ###
 *.log
